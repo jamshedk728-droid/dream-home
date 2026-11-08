@@ -1,0 +1,6 @@
+{
+  "name": "JNK Interior Designer",
+  "description": "Luxury Interior Design, POP & False Ceiling, Modular Kitchen & Custom Furniture Studio in Tuni, Andhra Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
